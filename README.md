@@ -2,6 +2,11 @@
 <p>Desde 2021 iniciei a faculdade de Analise e Desenvolvimento de Sistemas, dedico meu tempo  aos estudos do desenvolvimento de software, inicialmente com C, PHP, depois Java/SpringBoot e Javascript/NodeJs e sua stack; no momento busco aprofundar meus estudos em Frontend.</p>
 
 
+<div align="center">
+  <a href="https://github.com/MarcosSilva2021">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSilva2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilva2021&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
