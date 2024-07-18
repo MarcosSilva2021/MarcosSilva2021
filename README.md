@@ -1,5 +1,6 @@
 ### Olá! meu nome é Marcos Silva, seja bem vindo!
-<p>Acadêmico em Analise e Desenvolvimento de Sistemas, dedico meu tempo  aos estudos do desenvolvimento de software, em Java/SpringBoot e Javascript/NodeJs e sua stack; no momento busco aprofundar meus estudos em Frontend React.js.</p>
+<p>>Estudante de Analise e Desenvolvimento de Sistemas na Unichristus, atualmente estudos Java/SpringBoot e Javascript/NodeJs e React.js.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
 
 
 
@@ -26,3 +27,9 @@
 <div align="center"> 
   <a href = "mailto:mfsilva5585@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosSilva2021/MarcosSilva2021/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosSilva2021/MarcosSilva2021/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosSilva2021/MarcosSilva2021/output/github-contribution-grid-snake.svg">
+</picture>
