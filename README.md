@@ -1,5 +1,5 @@
 ### Olá! meu nome é Marcos Silva, seja bem vindo!
-<p>Estudante de Analise e Desenvolvimento de Sistemas na Unichristus, atualmente estudo Java, SpringBoot, python e Javascript e React.
+<p>Estudante de Analise e Desenvolvimento de Sistemas na Unichristus, atualmente estudo Java, SpringBoot, python, Javascript e React.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
 
 <div align="center">
