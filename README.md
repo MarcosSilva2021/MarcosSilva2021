@@ -1,7 +1,36 @@
 ### Olá! meu nome é Marcos Silva, seja bem vindo!
 <p>Estudante de Analise e Desenvolvimento de Sistemas na Unichristus, atualmente estudo Java, SpringBoot, python, Javascript e React.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
+------------------
+# Olá, eu sou o Marcos 👋
 
+Sou desenvolvedor de sistemas com experiência em **Java**, **Python**, **JavaScript**, **Spring Boot**, **React**, **Node.js**, **Docker**, entre outras tecnologias. Trabalho na área desde 2021, e tenho participado de projetos desafiadores tanto no **back-end** quanto no **front-end**, sempre com foco em boas práticas de desenvolvimento, performance e colaboração em equipe.
+
+Tenho como objetivo criar soluções que impactem positivamente, seja no desenvolvimento de APIs robustas no back-end ou na criação de interfaces dinâmicas e funcionais no front-end.
+
+## 🔧 Tecnologias que eu uso:
+
+- **Back-end**: Java, Spring Boot, Python, Node.js, SQL, Docker
+- **Front-end**: React.js, Bootstrap, HTML5, CSS3, JavaScript
+- **Metodologias**: Scrum, Git, UML
+
+## 🚀 Projetos em destaque:
+
+### [Projeto 1 - Nome do Projeto](link-para-repositorio)
+Uma breve descrição do que o projeto faz, tecnologias usadas e como rodar.
+
+### [Projeto 2 - Nome do Projeto](link-para-repositorio)
+Descrição do projeto, suas funcionalidades e contribuições para o mesmo.
+
+### [Projeto 3 - Nome do Projeto](link-para-repositorio)
+Adicione seus projetos mais relevantes que mostram suas habilidades.
+
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/marcos-silva-dev-ce/)
+- Email: mfsilva5585@gmail.com
+
+---------------------
 <div align="center">
   <a href="https://github.com/MarcosSilva2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSilva2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
