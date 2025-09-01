@@ -12,19 +12,15 @@ Tenho como objetivo criar soluções que impactem positivamente, seja no desenvo
 
 ## 🚀 Projetos em destaque:
 
-### [Projeto 1 - Nome do Projeto](link-para-repositorio)
-Uma breve descrição do que o projeto faz, tecnologias usadas e como rodar.
+### [agregadorinvestimentos](https://github.com/MarcosSilva2021/agregadorinvestimentos)
+API que consome os dados da **API da ABRAP**, oferecendo informações em tempo real sobre as ações da bolsa de valores. Utiliza **Spring Boot**, **Docker**, **MySQL**, **JUnit 5** para testes automatizados e outras tecnologias. 
 
-### [Projeto 2 - Nome do Projeto](link-para-repositorio)
-Descrição do projeto, suas funcionalidades e contribuições para o mesmo.
+### [API de Sistema de Livraria](https://github.com/MarcosSilva2021/api-livraria)
+API para um sistema de livraria com funcionalidades para cadastro e gestão de **Livros** e **Autores**. Utilizando **Spring Boot**, **Docker** e **Postgresql**, oferece um sistema simples e eficiente para controle de inventário, incluindo recursos como busca, cadastro e atualização de registros.
 
-### [Projeto 3 - Nome do Projeto](link-para-repositorio)
-Adicione seus projetos mais relevantes que mostram suas habilidades.
+### [PythonColab](https://github.com/MarcosSilva2021/PythonColab)
+Repositório dedicado a armazenar e compartilhar **notebooks** e **scripts Python** desenvolvidos no ambiente **Google Colab**. O projeto utiliza a biblioteca **Pandas** para **análise** e **manipulação de dados**, oferecendo soluções práticas para aprendizado e colaboração.
 
-
-## 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/marcos-silva-dev-ce/)
-- Email: mfsilva5585@gmail.com
 
 <div align="center">
   <a href="https://github.com/MarcosSilva2021">
@@ -47,8 +43,6 @@ Adicione seus projetos mais relevantes que mostram suas habilidades.
  
 </div>
 
-##
-
-<div align="center"> 
-  <a href = "mailto:mfsilva5585@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/marcos-silva-dev-ce/)
+- Email: mfsilva5585@gmail.com
