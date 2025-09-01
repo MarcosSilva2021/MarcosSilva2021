@@ -1,4 +1,3 @@
-<div>
 # Olá, eu sou o Marcos 👋
 
 Sou desenvolvedor de sistemas com experiência em **Java**, **Python**, **JavaScript**, **Spring Boot**, **React**, **Node.js**, **Docker**, entre outras tecnologias. Desde 2021, venho atuando em projetos desafiadores tanto no **back-end** quanto no **front-end**, sempre com foco em boas práticas de desenvolvimento, performance e colaboração em equipe.
@@ -26,9 +25,8 @@ Repositório dedicado a armazenar e compartilhar **notebooks** e **scripts Pytho
 - [LinkedIn](https://www.linkedin.com/in/marcos-silva-dev-ce/)
 - Email: mfsilva5585@gmail.com
 
-</div>
+---
 
-##
 <div align="center">
   <a href="https://github.com/MarcosSilva2021">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSilva2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -49,3 +47,4 @@ Repositório dedicado a armazenar e compartilhar **notebooks** e **scripts Pytho
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84">
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/postgres-000.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
 </div>
+
